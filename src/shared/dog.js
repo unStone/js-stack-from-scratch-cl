@@ -4,8 +4,8 @@ class Dog {
   }
 
   bark() {
-    return `Wah wah, I am ${this.name}`
+    return `Wah wah, I am ${this.name}`;
   }
 }
 
-module.exports = Dog
+export default Dog;
