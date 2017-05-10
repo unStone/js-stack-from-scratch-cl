@@ -1,0 +1,23 @@
+{
+  "name": "js-stack-from-scratch-cl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:unStone/js-stack-from-scratch-cl.git",
+  "author": "lei.chen <cl@nbugs.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  }
+}
